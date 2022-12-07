@@ -4,6 +4,6 @@
    xmlns:mvc="sap.ui.core.mvc">
    <!-- <Text text="Hell Tırsan" /> -->
     <Button
-      text="Say Hello"
+      text="Merhba tırsan"
       press=".onShowHello"/>
 </mvc:View>
